@@ -13,7 +13,7 @@ The development of the trade ideas in this repository is subject to data availab
 
 
 ## Trade Idea Format
-Each trade idea follows a consistent structure to ensure clarity and comparability. A typical trade idea file (e.g., `trade_idea_1`) includes the following sections:
+Each trade idea follows a consistent structure to ensure clarity and comparability. A typical trade idea file (e.g., `trade_idea_1`, `SST_1`) includes the following sections:
 
 1. **Trade Summary:** A brief overview of the trade idea and its rationale.
 2. **Market Context:** Current market conditions and key drivers.
