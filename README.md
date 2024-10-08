@@ -1,7 +1,7 @@
 # Trade Ideas Research
 
 ## Overview
-This repository serves as a collection of trade ideas based on current markets across different asset classes, primarily focused on Equity Derivatives but also including FX, Rates, and Credit markets. The ideas range from purely discretionary trades based on relative value analysis to more systematic/semi-systematic strategies leveraging quantitative models.
+This repository serves as a collection of trade ideas based on current markets across different asset classes, primarily focused on Equity Derivatives but also including FX, Rates, and Credit markets. The ideas range from purely discretionary trades and relative value analysis to more systematic/semi-systematic strategies leveraging quantitative models.
 
 ## Objectives
 The purpose of this repository is to:
